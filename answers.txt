@@ -1,3 +1,15 @@
 Your answers go here!
+Rosanne Anderson, Team Water
+1. Linus Torvalds
+2. Is also the main developer of Linux
+3. 2005
+4. init
+5. push moves the work done on my computer out to my git account
+6. .gitignorefile tells gihub to not include the file in a push (could be restricting access to personal information or other reasons)
+7. a fork is a copy of someone's code that can be worked on seperatly from the original.
+    It can be used to work off of someone else's code, or can be used to keep what has been done prior to the fork as a backup for any mistakes
+8. cloning is copying the code form github onto my computer
+9. NO NEVER
+10. true
 Please include your name and number your answers.
 ==================================================
